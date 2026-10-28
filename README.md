@@ -7,3 +7,5 @@ Version 0.1.0, build 1. Requires iOS/iPadOS 18 or later. Provisioning profile ex
 The download is public; installation is limited to devices included in the signed provisioning profile. Source code is maintained separately.
 
 Updated October 27, 2026: refreshed Ad Hoc profile for newly registered devices. The installer uses a fresh release URL to avoid stale IPA downloads. App version remains 0.1.0, build 1.
+
+Release r3 refreshes provisioning for an additional registered device. App version remains 0.1.0, build 1.
